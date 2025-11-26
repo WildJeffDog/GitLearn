@@ -1,4 +1,4 @@
-#I just want to be happy
+# I just want to be happy
 def find_happiness():
     print("输入你能想到的所有事情吧！无论是开心还是烦恼，都可以尽情说出来！\n")
     print("当你觉得说完了，输入'hide'结束对话。\n")
